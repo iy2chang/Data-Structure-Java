@@ -1,3 +1,4 @@
+package DataStructures;
 // myStack class shows how to implement a stack data structure using array
 public class MyStack {
 	private int size;	// size of the stack
